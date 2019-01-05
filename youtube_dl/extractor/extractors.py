@@ -1444,7 +1444,8 @@ from .xiami import (
 )
 from .ximalaya import (
     XimalayaIE,
-    XimalayaAlbumIE
+    XimalayaAlbumIE,
+    XimalayaAlbumMobileIE
 )
 from .xminus import XMinusIE
 from .xnxx import XNXXIE
